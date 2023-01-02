@@ -74,7 +74,7 @@ modules-left = bspwm i3
 modules-center = xwindow 
 modules-right = filesystem pulseaudio xkeyboard memory cpu eth battery date powermenu
 
-tray-position = none
+tray-position = right 
 tray-padding = 2
 ;tray-background = #0063ff
 
